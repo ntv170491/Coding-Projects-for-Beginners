@@ -4,3 +4,5 @@
 - [Javascript Animated Background Effects](https://ntv170491.github.io/Coding-Projects-for-Beginners/JavascriptAnimatedBackgroundEffects).
 
 - [Javascript Animated Background](https://ntv170491.github.io/Coding-Projects-for-Beginners/Javascript-Animated-Background).
+  
+- [How-to-Create-Memory-Game-in-JavaScript](https://ntv170491.github.io/Coding-Projects-for-Beginners/How-to-Create-Memory-Game-in-JavaScript).
